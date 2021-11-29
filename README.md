@@ -1,4 +1,4 @@
-# collectionbuilder-gh
+# Library Juice Academy Final Project - Library Data Analysis Collection
 
 A project to generate a free and simple digital collection site using [GitHub Pages](https://pages.github.com/) given:
 
