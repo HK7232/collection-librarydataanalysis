@@ -1,0 +1,5 @@
+objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
+coll001,drexel_library_stack.jpg,,,Drexel Library Stack,Drexel University Libraries,2020,,library; stack; books,"Philadelphia, PA",,,Drexel University Libraries,,Image;StillImage,image/jpg,eng,Public domain,http://rightsstatements.org/vocab/NoC-US/1.0/
+coll002,data_analysis.jpg,,,Data Analysis,,,,Data Analysis,,,,,,Image;StillImage,image/jpg,eng,,
+coll003,graph_pie.png,,,Graph and Pie charts,,,,Graph; Pie; Charts,,,,,,Image;StillImage,image/png,eng,,
+coll004,acrl_2019_2020_aau_private_total_expenditures.pdf,,,AAU Private Institutions' Library Total Expenditures in 2019 and 2020,Hae Min Kim,2021,"Comparison of library total expenditures in 2019 and 2020, ACRL data",library total expenditures; AAU; Private; 2019; 2020,,,,ACRL,,Text,application/pdf,eng,,
